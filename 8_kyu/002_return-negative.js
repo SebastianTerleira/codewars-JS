@@ -1,5 +1,5 @@
 /*
-* 001_count_by_x.js
+* 002_return-negative.js
 *https://www.codewars.com/kata/5545f109004975ea66000086/train/javascript
 *
 *Sebastian Terleira
