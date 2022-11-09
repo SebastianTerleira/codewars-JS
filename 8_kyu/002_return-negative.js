@@ -18,6 +18,8 @@ makeNegative(0.12); // return -0.12
 * Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
  */
 
+// Past Solutions:
+
 function makeNegative(num) {
     return (Math.sign(num) === -1) ? num : -num
 }
