@@ -22,6 +22,8 @@ Examples
 26  =>  false
 */
 
+// Past Solutions:
+
 var isSquare = function(n){
 	if (Math.sign(n) === -1) return false;
 	let raiz = n ** (1/2);
@@ -29,7 +31,7 @@ var isSquare = function(n){
 	return (round * round === n  ) ? true : false
 }
 
-// Other solution
+// Other solution:
 
 // function isSquare(n) {
 // 	return Math.sqrt(n) % 1 === 0;
